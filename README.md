@@ -108,7 +108,7 @@ if resultado_producto:
 
 ````
 
-Punto 3:
+## Punto 3:
 Desarrolle un programa que permita obtener la matriz transpuesta de una matriz ingresada. El programa debe validar las condiciones necesarias para ejecutar la operación.
 
 ````python
@@ -156,7 +156,7 @@ for fila in resultante:
 
 ````
 
-Punto 4:
+## Punto 4:
 Desarrollar un programa que sume los elementos de una columna dada de una matriz.
 
 ````python
